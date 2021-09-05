@@ -61,6 +61,3 @@ def toRoman(number)
 
     return roman_key
 end
-
-puts fromRoman("MCDXCVIII")
-puts toRoman(1498)
